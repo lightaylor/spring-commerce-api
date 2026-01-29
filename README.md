@@ -1,7 +1,8 @@
-## [프로젝트 문서](https://ivy-october-fe6.notion.site/Wanted-pre-onboarding-challenge-back-end-20-8c4abf19c63e41cfb0cd43d49306fb41?pvs=4)
+## 📘 Project Documentation
 
-
-### [ 환경 세팅 ]
+👉 **[API 문서 & Sequence 다이어그램 (Single Page)](https://ivy-october-fe6.notion.site/Wanted-pre-onboarding-challenge-back-end-20-8c4abf19c63e41cfb0cd43d49306fb41?pvs=4)**  
+  
+#### [ 환경 세팅 ]
   
 Docker - MySQL 실행 
 ``` 
@@ -13,7 +14,7 @@ use spring-commerce
 ```
 
 ---
-
+  
 ## 원티드 프리온보딩 챌린지 백엔드 20 사전과제
 
 
